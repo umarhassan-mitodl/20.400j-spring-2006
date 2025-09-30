@@ -1,0 +1,49 @@
+{
+  "term": "Spring",
+  "year": "2006",
+  "level": [
+    "Graduate"
+  ],
+  "topics": [
+    [
+      "Science",
+      "Biology",
+      "Computation and Systems Biology"
+    ],
+    [
+      "Engineering",
+      "Biological Engineering"
+    ]
+  ],
+  "legacy_uid": "5c197478-46ba-609f-edcd-196a71f3b070",
+  "instructors": {
+    "content": [
+      "32003dab-1ad9-d853-4cd2-88d8f4fde6e8",
+      "e144823f-ea01-a100-f387-7740404f5c05"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "69cabaea-1c70-06fa-aefb-4f0c5e79283a",
+    "website": "20-400j-perspectives-in-biological-engineering-spring-2006"
+  },
+  "course_title": "Perspectives in Biological Engineering",
+  "hide_download": true,
+  "course_description": "This seminar-format course provides an in-depth presentation and discussion of how engineering and biological approaches can be combined to solve problems in science and technology, emphasizing integration of biological information and methodologies with engineering analysis, synthesis, and design. Emphasis is placed on molecular mechanisms underlying cellular processes, including signal transduction, gene expression networks, and functional responses.\n",
+  "department_numbers": [
+    "20",
+    "7"
+  ],
+  "extra_course_numbers": "7.548J",
+  "primary_course_number": "20.400J",
+  "course_image_thumbnail": {
+    "content": "127ad86a-519a-8256-a620-4da53f3add21",
+    "website": "20-400j-perspectives-in-biological-engineering-spring-2006"
+  },
+  "hide_download_original": true,
+  "learning_resource_types": [],
+  "site_uid": "75c756e5-2b4c-4cfb-8c15-1a7a45743e57",
+  "site_short_id": "20.400j-spring-2006",
+  "site_url_path": "courses/20-400j-perspectives-in-biological-engineering-spring-2006",
+  "title": "Course Metadata"
+}
