@@ -4,8 +4,6 @@ description: Questions for consideration when reading papers on ethics.
 file: /courses/20-400j-perspectives-in-biological-engineering-spring-2006/16a75f776eba95e5e25473c4b059ffef_questions.pdf
 file_size: 10687
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Readings
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

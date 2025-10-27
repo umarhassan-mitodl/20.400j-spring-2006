@@ -4,8 +4,6 @@ description: Lecture presentation on basic statistics and human genetics.
 file: /courses/20-400j-perspectives-in-biological-engineering-spring-2006/d1d413af8169ddd4f94df34cb88640bf_20_400_statgen_.pdf
 file_size: 988936
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Readings
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
